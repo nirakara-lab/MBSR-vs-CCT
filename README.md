@@ -1,4 +1,5 @@
 # MBSR-vs-CCT
+![DOI](https://zenodo.org/badge/240576551.svg)](https://zenodo.org/badge/latestdoi/240576551)
 
 Copyright (c) 2019 Nirakara Lab
 
